@@ -7,7 +7,12 @@ In the code we call the haar_cascade file then we call our own picture.Later sta
 
 ![Screenshot](ad1.png)
 
+
+
+
 ![Screenshot](ad2.png)
+
+
 
 ![Screenshot](ad3.png)
 
